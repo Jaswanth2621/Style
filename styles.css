@@ -9,13 +9,17 @@ html {
   padding: 0;
   margin: 0;
 }
-h2,
 h3,
 h4 {
   text-align: center;
 }
 h5 {
   text-align: right;
+}
+p {
+  color: red;
+  font-family: courier;
+  font-size: 160%;
 }
 
 .header {
